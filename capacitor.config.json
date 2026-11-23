@@ -1,0 +1,7 @@
+{
+  "appId": "ir.konkooria.app",
+  "appName": "کنکوریا",
+  "webDir": "www",
+  "backgroundColor": "#0F3A2E",
+  "server": { "androidScheme": "https" }
+}
